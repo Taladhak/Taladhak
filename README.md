@@ -1,4 +1,4 @@
-# Hi there, I'm Talabiou Hakim Diallo! 👋
+# Hi there, I'm Tala! 👋
 
 ## 🚀 About Me
 I'm currently transitioning to a career in Software Engineering, building on my extensive experience as a Technology Consultant at Ernst & Young. With a Masters of Science in Information Systems Technology, my passion lies in building solutions and exploring innovative technologies. I bring a mix of technical acumen, problem-solving skills, and project management experience to the world of software development.
