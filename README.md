@@ -21,7 +21,7 @@ I'm currently transitioning to a career in Software Engineering, building on my 
 - **Soft Skills:** Technical Consulting, Entrepreneurship, Team Leadership
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [[Your LinkedIn Profile](Your LinkedIn URL)](https://www.linkedin.com/in/thd-link/)
+- **LinkedIn:** https://www.linkedin.com/in/thd-link/
 
 ## ✨ Interests
 - Pioneering in the fields of blockchain and data science.
