@@ -31,4 +31,3 @@ I'm currently transitioning to a career in Software Engineering, building on my 
 As I make this exciting transition to Software Engineering, I'm keen on collaborating on innovative projects, especially those that challenge me and expand my knowledge base. Feel free to connect if you're interested in my journey or have any advice, opportunities, or questions!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taladhak&theme=chartreuse-dark=true)
